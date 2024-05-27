@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/Logic-gate-simulator](https://github.com/prescientmoon/Logic-gate-simulator) 🚧
 # Logic-gate-simulator
 
 This was my first attempt at making a logic gate simulator. I did this right after finishing the 8th grade, and let's just say it wasn't so good:) If you want to check out an actually good logic gate simulator, check out [my latest attempt at doing it](https://github.com/Mateiadrielrafael/logicGateSimulator)
